@@ -32,7 +32,7 @@ import cv2
 # In[2]:
 
 
-model = load_model("Module-3/Model_Weights/model_8.h5")
+model = load_model("Model_Weights/model_8.h5")
 model.make_predict_function()
 
 
